@@ -1,0 +1,201 @@
+#logomain {
+    padding-right: 15px;
+}
+
+#logo {
+    padding-right: 15px;
+}
+
+.activepage{
+    font-weight: bolder;
+    cursor: default;
+
+}
+
+.activepage:active{
+    background color: darkgray;
+}
+
+.navbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    background-color: lightgray;
+}
+
+body {
+    max-width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+    text-align: justify;
+    padding-top: 100px;
+    overflow-x: hidden;
+}
+
+
+
+h1 {
+    margin-bottom: 30px;
+}
+
+h1,
+h4 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#norse{
+        font-family: 'Nova Oval', cursive;
+}
+
+img {
+    height: 30em;
+    width: 60%;
+    object-fit: fill;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+}
+
+.Hermopolis #frog {
+    float: right;
+    height: 35%;
+    width: 35%;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+
+.Hermopolis p {
+    margin: auto;
+}
+
+.Heliopolis img {
+    float: left;
+    height: 20%;
+    width: 30%;
+    margin-top: -20px;
+
+}
+
+h4 {
+    font-size: 200%;
+    text-align: center;
+    margin: 10px auto 30px auto;
+}
+
+section {
+    padding: 30px 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+}
+
+.Heliopolis p {
+    margin: auto;
+}
+
+.Memphis img {
+    height: auto;
+    width: 40%;
+    object-fit: fill;
+}
+
+.Memphis #poem {
+    margin: auto;
+    margin-bottom: 20px;
+    font-family: 'Cinzel', serif;
+    font-size: 120%;
+}
+
+#greece{
+    height: 30em;
+    width: 60%;
+    object-fit: fill;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+}
+
+.chaos img{
+    float: right;
+    height: 50%;
+    width: 40%;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+
+.rest #goddess{
+    float: right;
+    height: 40%;
+    width: 30%;
+    object-fit: fill;
+    margin-left: 25px;
+    margin-top: auto;
+}
+.rest img{
+    width: 65%;
+}
+
+.source{
+    align-content: left;
+}
+
+.intro img {
+    float: right;
+    height: 40%;
+    width: 35%;
+    object-fit: fill;
+    margin-left: 25px;
+    margin: auto;
+}
+
+.thor img{
+    float: left;
+    height: 30%;
+    width: 20%;
+    margin: auto;
+    margin-top: -60px;
+}
+
+.thor p{
+    max-width: 80%;
+}
+
+.bintro img{
+    float: right;
+    height: 30%;
+    width: 35%;
+    margin-left: 20px;
+    padding: inherit;
+}
+
+#japan {
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+#bab {
+    font-family: 'Oooh Baby', cursive;
+}
+
+#gre {
+    font-family: 'Aboreto', cursive;
+}
+
+.btn{
+    color: black;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+    width: 100%;
+}
